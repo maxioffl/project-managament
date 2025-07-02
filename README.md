@@ -2,7 +2,7 @@
 
 ```bash
 git clone <repository-url>
-cd project-management-app
+cd project-management
 ```
 
 ### 2. Install Dependencies
