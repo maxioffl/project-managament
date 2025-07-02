@@ -34,4 +34,4 @@ This command starts both the frontend (Vite dev server) and backend (Express ser
 
 ### Note:
 
-This application doesn't require .env file to keep the application simple for assignment and testing purpose
+This application does not require a .env file to keep it simple for assignment and testing purposes
